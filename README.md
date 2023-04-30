@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shalini</h1>
-<h3 align="center"> Data scientist/Analyst, ML/AI Engineer</h3>
+<h3 align="center"> Data Scientist/Analyst, ML/AI Engineer</h3>
 <img align="center" width = "1000" height = "200" src = "https://ieg.worldbankgroup.org/sites/default/files/Data/Event/ICTforEval2_blog.jpg">
 
 - 🔭 I’m currently working on **data analysis, machine learning projects**
